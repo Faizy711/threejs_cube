@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/threejs_cube/static/css/main.34de6062.chunk.css",
+    "main.js": "/threejs_cube/static/js/main.c144f028.chunk.js",
+    "main.js.map": "/threejs_cube/static/js/main.c144f028.chunk.js.map",
+    "runtime~main.js": "/threejs_cube/static/js/runtime~main.a48d7233.js",
+    "runtime~main.js.map": "/threejs_cube/static/js/runtime~main.a48d7233.js.map",
+    "static/js/2.e544a2fc.chunk.js": "/threejs_cube/static/js/2.e544a2fc.chunk.js",
+    "static/js/2.e544a2fc.chunk.js.map": "/threejs_cube/static/js/2.e544a2fc.chunk.js.map",
+    "index.html": "/threejs_cube/index.html",
+    "precache-manifest.d746db623232d9f02a6f7e75ce84de51.js": "/threejs_cube/precache-manifest.d746db623232d9f02a6f7e75ce84de51.js",
+    "service-worker.js": "/threejs_cube/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/threejs_cube/static/css/main.34de6062.chunk.css.map"
+  }
+}
